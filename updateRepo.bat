@@ -7,7 +7,7 @@ if not exist .git (
 )
 
 echo "adding remote Makingdevs"
-git remote add makingdevs git@github:omarApQz/practice_agora_test_empty.git
+git remote add makingdevs git@github.com:omarApQz/practice_agora_test_empty.git
 echo "Remote makingdevs added!!!"
 git add .
 git commit -m "Test Practice solution"
